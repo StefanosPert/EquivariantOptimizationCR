@@ -4,7 +4,7 @@ This repository is the official implementation of the paper:
 __Stefanos Pertigkiozoglou\*, Evangelos Chatzipantazis\*, Shubhendu Trivedi and Kostas Daniilidis, "Improving Equivariant Model Training via Constraint Relaxation" (Neurips 2024). [[arXiv](https://arxiv.org/pdf/2408.13242)]__
 
 <p align="center">
-<img src="https://github.com/StefanosPert/setup_Equivariant_Optimization_CR/blob/main/assets/ApproximateEquivarianceOptimization.jpg" width=60%>
+<img src="https://github.com/StefanosPert/Equivariant_Optimization_CR/blob/main/assets/ApproximateEquivarianceOptimization.jpg" width=60%>
 </p>
 
 ### Abstract
