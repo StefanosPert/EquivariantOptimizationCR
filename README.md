@@ -18,10 +18,15 @@ Please see the following directories for the individual experiments where we app
 
 ## Cite
 ```
-@inproceedings{equivOptimCR2024,
- title = {Improving Equivariant Model Training via Constraint Relaxation},
- author = {Stefanos Pertigkiozoglou and Evangelos Chatzipantazis and Shubhendu Trivedi and Kostas Daniilidis},
+@inproceedings{NEURIPS2024_98082e6b,
+ author = {Pertigkiozoglou, Stefanos and Chatzipantazis, Evangelos and Trivedi, Shubhendu and Daniilidis, Kostas},
  booktitle = {Advances in Neural Information Processing Systems},
+ editor = {A. Globerson and L. Mackey and D. Belgrave and A. Fan and U. Paquet and J. Tomczak and C. Zhang},
+ pages = {83497--83520},
+ publisher = {Curran Associates, Inc.},
+ title = {Improving Equivariant Model Training via Constraint Relaxation},
+ url = {https://proceedings.neurips.cc/paper_files/paper/2024/file/98082e6b4b97ab7d3af1134a5013304e-Paper-Conference.pdf},
+ volume = {37},
  year = {2024}
 }
 ```
