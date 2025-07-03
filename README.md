@@ -1,5 +1,8 @@
 ## Improving Equivariant Model Training via Constraint Relaxation
-This repository is the official implementation of the paper:
+
+🔴 **Please refer to [StefanosPert/Equivariant_Optimization_CR](https://github.com/StefanosPert/Equivariant_Optimization_CR) for the most up to date version of this repository.**
+
+This repository provides an implementation for the paper: 
 
 __Stefanos Pertigkiozoglou\*, Evangelos Chatzipantazis\*, Shubhendu Trivedi and Kostas Daniilidis, "Improving Equivariant Model Training via Constraint Relaxation" (Neurips 2024). [[link](https://openreview.net/forum?id=tWkL7k1u5v&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DNeurIPS.cc%2F2024%2FConference%2FAuthors%23your-submissions))]__
 
